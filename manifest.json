@@ -15,5 +15,5 @@
     "browser_action": {
         "default_title": "Refresh"
     },
-    "permissions": ["alarms", "activeTab", "storage", "tabs", "http://*/", "https://*/"]
+    "permissions": ["activeTab", "tabs"]
 }
